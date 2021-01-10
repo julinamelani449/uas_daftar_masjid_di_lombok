@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lombok Seribu Masjid</string>
+    <string name="action_settings">Keluar</string>
+    <!-- Strings used for content -->
+    <string name="my_name">Julina Maelani</string>
+    <string name="prodi">Sistem Informasi</string>
+    <string name="semester">7 (Tujuh)</string>
+</resources>
